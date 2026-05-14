@@ -1,0 +1,23 @@
+# ─────────────────────────────────────────────────────────────
+# IoT Attack Detection Lab — Python Dependencies
+# Install with: pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────
+
+# MQTT client library — used by all device, attack, and detection scripts
+paho-mqtt==1.6.1
+
+# Rich terminal UI — used by the live dashboard for coloured tables and panels
+rich==13.7.1
+
+# HTTP requests — used by sentinel_forwarder.py to call Azure Log Analytics API
+requests==2.31.0
+
+# Cryptographic hashing — used to build the HMAC-SHA256 signature for Sentinel
+# (this is part of Python's standard library, listed here for documentation)
+# hashlib  ← built-in, no install needed
+
+# JSON handling — also built-in, listed for clarity
+# json     ← built-in
+
+# Threading, time, random, datetime — all built-in standard library modules
+# No additional installs needed for those
