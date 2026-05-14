@@ -118,7 +118,7 @@ Then restart: `sudo systemctl restart mosquitto`
 ### 3. Clone & Install Python Dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/IoT-Attack-Detection-Lab.git
+git clone https://github.com/fahaadabdullah6-dev/IoT-Attack-Detection-Lab.git
 cd IoT-Attack-Detection-Lab
 
 # Create virtual environment (recommended)
