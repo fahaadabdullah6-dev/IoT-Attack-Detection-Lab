@@ -1,8 +1,7 @@
 # 🛡️ IoT Attack Detection Lab — MQTT Security Monitor
 
-> **Academic Research Project** | MSc Cybersecurity → PhD Application Portfolio  
-> **Target Institution:** University of Huddersfield — Dr. Saad Khan (IoT Security)  
-> **Author:** [Your Name] | [Your Email]
+> **Academic Research Project** | MSc Cybersecurity → PhD Application Portfolio    
+> **Author:** [Fahad Ali] | [fahaadabdullah6@gmail.com]
 
 A fully simulated IoT network with real attack scenarios and a live detection engine.  
 Built to demonstrate hands-on competency in IoT protocol security, anomaly detection,  
