@@ -226,7 +226,7 @@ demonstrates the risk of unencrypted MQTT (port 1883).
 
 ## 🔬 Research Context
 
-This project explores the following research themes relevant to Dr. Khan's work:
+This project explores the following research themes :
 
 | Theme | Implementation |
 |-------|---------------|
